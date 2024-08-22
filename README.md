@@ -60,28 +60,5 @@ Learn More
 <p>
 You can learn more in the <a href="https://facebook.github.io/create-react-app/docs/getting-started">Create React App documentation</a>.<br>
 To learn React, check out the <a href="https://reactjs.org/">React documentation</a>.
-</p>
-Code Splitting
-<p>
-This section has moved here: <a href="https://facebook.github.io/create-react-app/docs/code-splitting">Code Splitting</a>.
-</p>
-Analyzing the Bundle Size
-<p>
-This section has moved here: <a href="https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size">Analyzing the Bundle Size</a>.
-</p>
-Making a Progressive Web App
-<p>
-This section has moved here: <a href="https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app">Making a Progressive Web App</a>.
-</p>
-Advanced Configuration
-<p>
-This section has moved here: <a href="https://facebook.github.io/create-react-app/docs/advanced-configuration">Advanced Configuration</a>.
-</p>
-Deployment
-<p>
-This section has moved here: <a href="https://facebook.github.io/create-react-app/docs/deployment">Deployment</a>.
-</p>
-Troubleshooting
-<p>
-If `npm run build` fails to minify, see <a href="https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify">Troubleshooting</a>.
-</p>
+
+
