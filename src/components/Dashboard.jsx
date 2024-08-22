@@ -89,7 +89,7 @@ const Dashboard = () => {
               </li>
             ))
           ) : (
-            <p className="text-center font-semibold text-red-700">No items available.</p>
+            <p className="text-center font-semibold text-red-700">Item not available.</p>
           )}
         </ul>
         <button
