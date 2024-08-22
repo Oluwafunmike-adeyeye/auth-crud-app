@@ -39,4 +39,10 @@ cd &lt;project-directory&gt;
 <p>The application is hosted on Netlify. Visit <a href="https://your-deployment-url.netlify.app/">your-deployment-url.netlify.app</a> to explore the live application.</p>
 <h2>Contributions</h2>
 <p>Contributions to Mirage Auth CRUD App are welcome! Feel free to fork the repository, make improvements, and submit pull requests.</p>
+<h2 style="text-align: center;">Default User Credentials</h2>
+<p style="text-align: center;">For testing purposes, you can use the following credentials to log in:</p>
+<ul style="text-align: center;">
+  <li><strong>Email:</strong> user1@gmail.com</li>
+  <li><strong>Password:</strong> user1</li>
+</ul>
 <p>For any issues or feedback, please create an issue on GitHub.</p>
