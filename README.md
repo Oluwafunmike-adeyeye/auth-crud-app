@@ -1,64 +1,42 @@
-Mirage Auth CRUD App
-<p>
-A React application with user authentication and CRUD operations, using Redux for state management and MirageJS for mocking the backend.
-</p>
-Features
-<p>
-- User authentication with login functionality.<br>
-- CRUD operations for managing items.<br>
-- Mock backend using MirageJS for development.<br>
-- State management with Redux.
-</p>
-Getting Started
-<p>
-This project was bootstrapped with <a href="https://github.com/facebook/create-react-app">Create React App</a>.
-</p>
-Prerequisites
-<p>
-Ensure you have Node.js and npm installed on your machine. You can download them from <a href="https://nodejs.org/">Node.js official website</a>.
-</p>
-Installation
-<p>
-1. Clone the repository:
-   <pre><code>git clone https://github.com/yourusername/mirage-auth-crud-app.git</code></pre>
-2. Navigate to the project directory:
-   <pre><code>cd mirage-auth-crud-app</code></pre>
-3. Install dependencies:
-   <pre><code>npm install</code></pre>
-</p>
-Available Scripts
-<p>
-In the project directory, you can run:
-</p>
-npm start
-<p>
-Runs the app in development mode.<br>
-Open <a href="http://localhost:3000">http://localhost:3000</a> to view it in your browser.<br>
-The page will reload when you make changes.<br>
-You may also see any lint errors in the console.
-</p>
-npm test
-<p>
-Launches the test runner in interactive watch mode.<br>
-See the section about <a href="https://facebook.github.io/create-react-app/docs/running-tests">running tests</a> for more information.
-</p>
-npm run build
-<p>
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.<br>
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!<br>
-See the section about <a href="https://facebook.github.io/create-react-app/docs/deployment">deployment</a> for more information.
-</p>
-npm run eject
-<p>
-<strong>Note:</strong> This is a one-way operation. Once you `eject`, you can't go back!<br>
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project. Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc.) right into your project so you have full control over them.<br>
-You don't have to use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However, we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-</p>
-Learn More
-<p>
-You can learn more in the <a href="https://facebook.github.io/create-react-app/docs/getting-started">Create React App documentation</a>.<br>
-To learn React, check out the <a href="https://reactjs.org/">React documentation</a>.
-
-
+<h1>Mirage Auth CRUD App</h1>
+<p>Welcome to Mirage Auth CRUD App, a React application that includes user authentication and CRUD operations. This project uses Redux for state management and MirageJS to simulate backend functionality.</p>
+<h2>Getting Started</h2>
+<p>To start using Mirage Auth CRUD App locally, follow these steps:</p>
+<p>Clone the Repository:</p>
+<pre><code>git clone &lt;repository-url&gt;
+cd &lt;project-directory&gt;
+</code></pre>
+<p>Install Dependencies:</p>
+<pre><code>npm install
+</code></pre>
+<p>Run the Development Server:</p>
+<pre><code>npm start
+</code></pre>
+<p>Open in Your Browser:</p>
+<p>Open <a href="http://localhost:3000">http://localhost:3000</a> to view the application.</p>
+<h2>Features</h2>
+<ul>
+  <li><strong>User Authentication:</strong> Login with email and password. Redirects to dashboard upon successful login.</li>
+  <li><strong>CRUD Operations:</strong> Create, read, update, and delete items on the dashboard.</li>
+  <li><strong>Mock Backend:</strong> Uses MirageJS to handle API requests and responses.</li>
+</ul>
+<h2>Technologies Used</h2>
+<ul>
+  <li><strong>React.js:</strong> JavaScript library for building user interfaces.</li>
+  <li><strong>Redux:</strong> State management library for handling application state.</li>
+  <li><strong>MirageJS:</strong> API mocking library for simulating server interactions.</li>
+  <li><strong>Tailwind CSS:</strong> Utility-first CSS framework for styling.</li>
+</ul>
+<h2>Learn More</h2>
+<p>To learn more about each technology used in Mirage Auth CRUD App, refer to their respective documentation:</p>
+<ul>
+  <li><a href="https://reactjs.org/docs/getting-started.html">React.js Documentation</a></li>
+  <li><a href="https://redux.js.org/introduction/getting-started">Redux Documentation</a></li>
+  <li><a href="https://miragejs.com/docs/getting-started/introduction">MirageJS Documentation</a></li>
+  <li><a href="https://tailwindcss.com/docs">Tailwind CSS Documentation</a></li>
+</ul>
+<h2>Deployment</h2>
+<p>The application is hosted on Netlify. Visit <a href="https://your-deployment-url.netlify.app/">your-deployment-url.netlify.app</a> to explore the live application.</p>
+<h2>Contributions</h2>
+<p>Contributions to Mirage Auth CRUD App are welcome! Feel free to fork the repository, make improvements, and submit pull requests.</p>
+<p>For any issues or feedback, please create an issue on GitHub.</p>
