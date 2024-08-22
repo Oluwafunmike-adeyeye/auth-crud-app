@@ -7,8 +7,8 @@ import { Provider } from "react-redux";
 import store from "./store";
 import { makeServer } from "./server";
 
-if (process.env.NODE_ENV === "development") {
-  makeServer({ environment: "development" });
+if (process.env.NODE_ENV === "development" || process.env.NODE_ENV === "production") {
+  makeServer();
 }
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
